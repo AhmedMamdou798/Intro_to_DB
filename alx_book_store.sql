@@ -1,4 +1,4 @@
-
+CREATE DATABASE alx_book_store;
 USE alx_book_store;
 
 -- Create the Authors table
